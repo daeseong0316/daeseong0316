@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=blur&color=yellow&height=300&section=header&text=King%20DaeSeong&fontSize=90&fontColor=ff0000"/>
 
-## Hi there 👋
+## Hello
 
 안녕하세요!! 저는 계명대학교 22학번이며, 현재는 휴학 중입니다.  
 아직 많이 부족하지만 열심히 공부 중입니다. :D  
