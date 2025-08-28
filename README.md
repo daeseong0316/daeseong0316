@@ -11,10 +11,8 @@
 <img src="https://img.shields.io/badge/c-00599C?style=plastic&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"> 
 <img src="https://img.shields.io/badge/java-007396?style=plastic&logo=java&logoColor=white">  
-<br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
-<br>
 
 ### 💛 Studying
 <img src="https://img.shields.io/badge/java-007396?style=plastic&logo=java&logoColor=white">
@@ -24,9 +22,9 @@
 ![daeseong0316's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeseong0316&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeseong0316&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🩵 Top Langs [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeseong0316&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats) 
-
-### 💙 BOJ Problem Solving [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dsh1345)](https://solved.ac/dsh1345) [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dsh1345)](https://solved.ac/dsh1345) 
+### 💙 BOJ Problem Solving
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dsh1345)](https://solved.ac/dsh1345)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dsh1345)](https://solved.ac/dsh1345)
 
 ### 💜 BLOG
 [Naver Blog](https://blog.naver.com/dsh1345)
