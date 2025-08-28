@@ -18,8 +18,7 @@
 <img src="https://img.shields.io/badge/java-007396?style=plastic&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white">
 
-### 💚 GitHub Stats & Top Langs
-![daeseong0316's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeseong0316&show_icons=true&theme=default)
+### 💚 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeseong0316&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💙 BOJ Problem Solving
