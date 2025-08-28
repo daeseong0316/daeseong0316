@@ -23,7 +23,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeseong0316&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💙 BOJ Problem Solving
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dsh1345)](https://solved.ac/dsh1345)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dsh1345)](https://solved.ac/dsh1345)
 
 ### 💜 BLOG
