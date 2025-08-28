@@ -14,9 +14,13 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"> 
 <img src="https://img.shields.io/badge/java-007396?style=plastic&logo=java&logoColor=white">  
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
-<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Java_Scripts-F7DF1E?style=plastic&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=white">
 
 <hr style="height:0.5px;border:none;color:#ddd;background-color:#ddd;" />
 
@@ -26,12 +30,8 @@
 
 <hr style="height:0.5px;border:none;color:#ddd;background-color:#ddd;" />
 
-### 💚 GitHub Stats
+### 💚 GitHub Stats & Top Langs
 ![daeseong0316's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeseong0316&show_icons=true&theme=default)
-
-<hr style="height:0.5px;border:none;color:#ddd;background-color:#ddd;" />
-
-### 🩵 Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeseong0316&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr style="height:0.5px;border:none;color:#ddd;background-color:#ddd;" />
