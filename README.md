@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=yellow&height=300&section=header&text=King%20DaeSeong%20World&fontSize=90&fontColor=ff0000"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=yellow&height=300&section=header&text=King%20DaeSeong&fontSize=90&fontColor=ff0000"/>
 
 ## Hi there 👋
 
